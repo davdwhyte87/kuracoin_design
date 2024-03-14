@@ -1,0 +1,1 @@
+# kuracoin_design
